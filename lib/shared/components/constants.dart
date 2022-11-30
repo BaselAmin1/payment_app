@@ -1,0 +1,9 @@
+String paymobApiKey =
+    'ZXlKaGJHY2lPaUpJVXpVeE1pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SnVZVzFsSWpvaWFXNXBkR2xoYkNJc0ltTnNZWE56SWpvaVRXVnlZMmhoYm5RaUxDSndjbTltYVd4bFgzQnJJam8yTXpjMU5UZDkud2RMTzd6aHdWUE50dFA3TDN5aFpFSFJBTWY0N0piYjdYVWlMUnRBckpReUI4Rmg2N3pqZzdnMVAxdUJkYnB5WXM1WDl6UTBVNDBfWERIM1N4VzhoRHc=';
+String paymobToken = '';
+String paymobOrderId = '';
+String finalTokenCard = '';
+String finalTokenKiosk = '';
+String integrationIdCard = '3125915';
+String integrationIdKiosk = '3126041';
+String referenceCode = '';
